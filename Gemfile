@@ -16,6 +16,7 @@ gem 'react-rails', '~> 1.0'
 
 gem 'coffee-rails', '~> 4.2'
 
+
 gem 'geocoder'
 gem 'gmaps4rails'
 # Use jquery as the JavaScript library
